@@ -1,4 +1,4 @@
-# Prework - *Name of App Here*
+# Prework - *Color Wizard*
 
 Submitted by: **Quinxie Doan**
 
