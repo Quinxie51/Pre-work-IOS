@@ -2,7 +2,7 @@
 
 Submitted by: **Quinxie Doan**
 
-**Color Change** is an app that change color of the background
+**Color Wizard** is an app that change color of the background
 
 Time spent: **2** hours spent in total
 
