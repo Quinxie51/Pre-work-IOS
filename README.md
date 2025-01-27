@@ -47,14 +47,13 @@ Completing challenges earns points that can unlock fun rewards like cool avatars
 You level up as you progress, and streaks give extra motivation to stay consistent.
 
 - Compete and Share:
-
 Users can challenge friends to quick coding matches or see who’s on top of the leaderboard.
 ## Notes
 N/A
 
 ## License
 
-    Copyright [2025] [name of copyright owner]
+    Copyright [2025] [Quinxie Doan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
